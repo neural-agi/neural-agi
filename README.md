@@ -1,5 +1,8 @@
 # 💫 About Me:
-I’m a first-year CS student focused on learning Machine Learning from first principles.<br>I build small but complete ML projects end-to-end: data preprocessing, model training, evaluation, and basic deployment.<br>Long-term, I’m interested in intelligent systems and applied AI, but right now I’m focused on mastering fundamentals.
+Computer Science student with interests in machine learning, data engineering, system design, and applied artificial intelligence.
+
+Focused on building a strong foundation in computer science while developing projects that solve real world problems.
+
 
 
 ## 🌐 Socials:
