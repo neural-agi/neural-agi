@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="800" height="160" viewBox="0 0 800 160">
   <style>
     
-    .signoff { animation: signoffIn 2s ease-in-out infinite; }
-    .soc { animation: socfade 2s ease-in-out infinite; }
+    .signoff { animation: signoffIn 4s ease-in-out infinite; }
+    .soc { animation: socfade 4s ease-in-out infinite; }
     .sf0 { animation-delay: 0.60s }
 
     @keyframes signoffIn {
@@ -16,9 +16,9 @@
       100% { opacity: 0; }
     }
   
-    .heart { animation: heartbeat 2s ease-in-out infinite; transform-box: fill-box; transform-origin: center; }
-    .wave-front { animation: drift-front 2s linear infinite; }
-    .wave-back { animation: drift-back 2s linear infinite; }
+    .heart { animation: heartbeat 4s ease-in-out infinite; transform-box: fill-box; transform-origin: center; }
+    .wave-front { animation: drift-front 4s linear infinite; }
+    .wave-back { animation: drift-back 4s linear infinite; }
 
     @keyframes heartbeat {
       0%, 40% { transform: scale(1); }

@@ -9,14 +9,14 @@
     @keyframes chip5 { 0%,13% { opacity: 0; transform: translateY(6px) } 15%,92% { opacity: 1; transform: translateY(0) } 97%,100% { opacity: 0 } }
     @keyframes chip6 { 0%,15% { opacity: 0; transform: translateY(6px) } 17%,92% { opacity: 1; transform: translateY(0) } 97%,100% { opacity: 0 } }
     @keyframes chip7 { 0%,18% { opacity: 0; transform: translateY(6px) } 20%,92% { opacity: 1; transform: translateY(0) } 97%,100% { opacity: 0 } }
-    .chip0 { animation: chip0 2s ease-out infinite; transform-origin: center; transform-box: fill-box; }
-    .chip1 { animation: chip1 2s ease-out infinite; transform-origin: center; transform-box: fill-box; }
-    .chip2 { animation: chip2 2s ease-out infinite; transform-origin: center; transform-box: fill-box; }
-    .chip3 { animation: chip3 2s ease-out infinite; transform-origin: center; transform-box: fill-box; }
-    .chip4 { animation: chip4 2s ease-out infinite; transform-origin: center; transform-box: fill-box; }
-    .chip5 { animation: chip5 2s ease-out infinite; transform-origin: center; transform-box: fill-box; }
-    .chip6 { animation: chip6 2s ease-out infinite; transform-origin: center; transform-box: fill-box; }
-    .chip7 { animation: chip7 2s ease-out infinite; transform-origin: center; transform-box: fill-box; }
+    .chip0 { animation: chip0 4s ease-out infinite; transform-origin: center; transform-box: fill-box; }
+    .chip1 { animation: chip1 4s ease-out infinite; transform-origin: center; transform-box: fill-box; }
+    .chip2 { animation: chip2 4s ease-out infinite; transform-origin: center; transform-box: fill-box; }
+    .chip3 { animation: chip3 4s ease-out infinite; transform-origin: center; transform-box: fill-box; }
+    .chip4 { animation: chip4 4s ease-out infinite; transform-origin: center; transform-box: fill-box; }
+    .chip5 { animation: chip5 4s ease-out infinite; transform-origin: center; transform-box: fill-box; }
+    .chip6 { animation: chip6 4s ease-out infinite; transform-origin: center; transform-box: fill-box; }
+    .chip7 { animation: chip7 4s ease-out infinite; transform-origin: center; transform-box: fill-box; }
   </style>
   <rect width="100%" height="100%" fill="#0d0d10" rx="14" ry="14"/>
 

@@ -1,15 +1,15 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="800" height="320" viewBox="0 0 800 320">
   <style>
-    .heading { animation: slidein 2s ease-out infinite; }
-    .underline { animation: bar 2s ease-out infinite; transform-origin: left center; }
-    .meta { animation: fade 2s ease-in-out infinite; }
-    .corner { animation: cornerSlide 2s ease-out infinite; }
-    .stat { animation: fadeUp 2s ease-out infinite; }
+    .heading { animation: slidein 4s ease-out infinite; }
+    .underline { animation: bar 4s ease-out infinite; transform-origin: left center; }
+    .meta { animation: fade 4s ease-in-out infinite; }
+    .corner { animation: cornerSlide 4s ease-out infinite; }
+    .stat { animation: fadeUp 4s ease-out infinite; }
     .s0 { animation-delay: 0.3s }
     .s1 { animation-delay: 0.4s }
     .s2 { animation-delay: 0.5s }
     .s3 { animation-delay: 0.6000000000000001s }
-    .lang-bar { animation: bar 2s ease-out infinite; transform-origin: left center; }
+    .lang-bar { animation: bar 4s ease-out infinite; transform-origin: left center; }
 
     @keyframes slidein {
       0% { opacity: 0; transform: translateX(-12px) }

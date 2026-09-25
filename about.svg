@@ -1,12 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="800" height="320" viewBox="0 0 800 320">
   <style>
-    .heading { animation: slidein 2s ease-out infinite; }
-    .bio { animation: fade 2s ease-in-out infinite; }
-    .pill { animation: pillpop 2s ease-out infinite; transform-box: fill-box; transform-origin: center; }
+    .heading { animation: slidein 4s ease-out infinite; }
+    .bio { animation: fade 4s ease-in-out infinite; }
+    .pill { animation: pillpop 4s ease-out infinite; transform-box: fill-box; transform-origin: center; }
     .p0 { animation-delay: 0.4s }
     .p1 { animation-delay: 0.52s }
     .p2 { animation-delay: 0.64s }
-    .accentbar { animation: bar 2s ease-out infinite; transform-origin: top left; }
+    .accentbar { animation: bar 4s ease-out infinite; transform-origin: top left; }
 
     @keyframes slidein {
       0% { opacity: 0; transform: translateX(-12px) }

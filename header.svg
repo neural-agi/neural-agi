@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="800" height="300" viewBox="0 0 800 300">
   <style>
-    .name { animation: nameIn 2s ease-out infinite; }
-    .underline { animation: underlineDraw 2s ease-out infinite; transform-origin: left center; }
-    .meta { animation: fadeUp 2s ease-out infinite; animation-delay: 0.3s; }
-    .corner { animation: cornerSlide 2s ease-out infinite; }
+    .name { animation: nameIn 4s ease-out infinite; }
+    .underline { animation: underlineDraw 4s ease-out infinite; transform-origin: left center; }
+    .meta { animation: fadeUp 4s ease-out infinite; animation-delay: 0.3s; }
+    .corner { animation: cornerSlide 4s ease-out infinite; }
 
     @keyframes nameIn {
       0%, 4% { opacity: 0; transform: translateY(8px); }
